@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tre:home|Door43 (tre)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tre|d43-tre repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tre/archive/master.zip|d43-tre.zip]]
+
+**Recent Changes**
+{{changes>ns = tre}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tre|Ethnologue data]]
+
